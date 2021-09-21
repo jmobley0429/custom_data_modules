@@ -1,3 +1,10 @@
+################################
+#
+# Collection of scripts for processing data in day-to-day work, particularly
+# in cleaning and querying large property datasets.
+#
+################################
+
 import pandas as pd
 import numpy as np
 from pathlib import Path
