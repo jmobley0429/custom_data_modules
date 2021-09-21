@@ -1,3 +1,13 @@
+  
+################################
+#
+# Collection of scripts for scraping and formatting small amounts of data from 
+# opencorporates.com, a website useful for researching businesses, corporations and LLC's.
+#
+################################
+
+
+
 import requests
 import pandas as pd
 import os
